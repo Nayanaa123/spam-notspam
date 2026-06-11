@@ -77,7 +77,7 @@ http://localhost:8501
 ---
 
 # 📸 Output Screenshots
-## 📸 Output Screenshots
+
 
 ### Home Page
 
@@ -91,27 +91,7 @@ http://localhost:8501
 
 ![Not Spam Prediction](./spam%20detection/screenshots/Screenshot%202026-06-11%20091539.png)
 
-## 1️⃣ Home Page
 
-![Home Page](./Spam_Detection/screenshots/output1.png)
-
-*Home page of the Spam Detection application.*
-
----
-
-## 2️⃣ Spam Prediction
-
-![Spam Prediction](./Spam_Detection/screenshots/output2.png)
-
-*Example showing a message classified as Spam.*
-
----
-
-## 3️⃣ Not Spam Prediction
-
-![Not Spam Prediction](./Spam_Detection/screenshots/output3.png)
-
-*Example showing a message classified as Not Spam (Ham).*
 
 ---
 
