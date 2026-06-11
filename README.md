@@ -77,6 +77,19 @@ http://localhost:8501
 ---
 
 # 📸 Output Screenshots
+## 📸 Output Screenshots
+
+### Home Page
+
+![Home Page](./spam%20detection/screenshots/Screenshot%202026-06-11%20091451.png)
+
+### Spam Prediction
+
+![Spam Prediction](./spam%20detection/screenshots/Screenshot%202026-06-11%20091513.png)
+
+### Not Spam Prediction
+
+![Not Spam Prediction](./spam%20detection/screenshots/Screenshot%202026-06-11%20091539.png)
 
 ## 1️⃣ Home Page
 
